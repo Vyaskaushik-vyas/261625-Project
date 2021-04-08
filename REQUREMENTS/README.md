@@ -2,7 +2,7 @@
 Project Repository
 # Requirements
 ## Introduction
- --- TBD 
+ To design a system which calculates the size of the Cable to be laid based on system parameters for a Substation
 
 ## Research
 ![Description](Link to Pic)
