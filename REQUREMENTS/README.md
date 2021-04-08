@@ -21,28 +21,34 @@ Project Repository
 ![image](https://user-images.githubusercontent.com/80807460/113964131-7f8dd180-9848-11eb-9902-f71b2fcb9930.png)
 ## Cost and Features
 
-The main aim of the project is that the enginner will enter the necessary values of the current and voltages so he can get the Standard cable sizing in Indian standards(IS) required for laying 
+• The main aim of the project is that the enginner will enter the necessary values of the current and voltages so he can get the Standard cable sizing in Indian standards(IS) required for laying 
 
-The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
+• The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
 
-A lot of time and money can be saved in this project as the result leads to quick installation and accurate results.
+• A lot of time and money can be saved in this project as the result leads to quick installation and accurate results.
  
-## Defining Our System
+## Defining MY System
    
+• The system will be getting some essential paramenters from the user and it will compute the values and with which it will be able to choose or design a perticular crossection area of the conductor which can be put into use .
    
    
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+
+• Strength     - It's capable of quick and accurate analysis
+• Weakness     - It may not consider hetrogeneous materials of cable under consideration
+• Oppertunities- The program can be made to accomodate all the derating factors affecting the cable sizing
+• Threats      - Usage of hetrogeneous material and the use of the program may end up in wrong results
+
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-**TBD**
+Substation Desing and installtion engineers will be able to use this program effectively to find the cable sizing
 
 ## What:
 
-**TBD**
+
 
 ## When:
 
