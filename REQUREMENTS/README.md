@@ -44,23 +44,24 @@ Project Repository
 
 ## Who:
 
-Substation Desing and installtion engineers will be able to use this program effectively to find the cable sizing
+• Substation Desing and installtion engineers will be able to use this program effectively to find the cable sizing
 
 ## What:
 
+• The solution mainly shows the standard sizing of the cables to be laid in a substation with site parameters 
 
 
 ## When:
 
-**TBD**
+• This program is effective for laying cables in a substation of homogeneous material 
 
 ## Where:
 
-**TBD**
+• The solution is for proper standard sizing cables for transfer of electricity from producer to consumer. 
 
 ## How:
 
-**TBD**
+• It calculates the area of crossection of the cables to be laid with the help of site parameters and as well as the standard Indian Parameters  
 
 # Detail requirements
 ## High Level Requirements:
