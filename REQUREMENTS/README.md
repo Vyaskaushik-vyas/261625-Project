@@ -20,10 +20,17 @@ Project Repository
 
 ![image](https://user-images.githubusercontent.com/80807460/113964131-7f8dd180-9848-11eb-9902-f71b2fcb9930.png)
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
+
+The main aim of the project is that the enginner will enter the necessary values of the current and voltages so he can get the Standard cable sizing in Indian standards(IS) required for laying 
+
+The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
+
+A lot of time and money can be saved in this project as the result leads to quick installation and accurate results.
+ 
 ## Defining Our System
-    -- TBD
+   
+   
+   
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
