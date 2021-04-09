@@ -14,7 +14,7 @@ Project Repository
 
 
 
-![image](https://user-images.githubusercontent.com/80807460/113964048-5bca8b80-9848-11eb-96e5-307e10c9409e.png)
+                             ![image](https://user-images.githubusercontent.com/80807460/113964048-5bca8b80-9848-11eb-96e5-307e10c9409e.png)
 
 
 
@@ -34,10 +34,10 @@ Project Repository
    
 ## SWOT ANALYSIS
 
-• Strength     - It's capable of quick and accurate analysis
-• Weakness     - It may not consider hetrogeneous materials of cable under consideration
-• Oppertunities- The program can be made to accomodate all the derating factors affecting the cable sizing
-• Threats      - Usage of hetrogeneous material and the use of the program may end up in wrong results
+
+
+![image](https://user-images.githubusercontent.com/80807460/114117115-9b09e280-9903-11eb-8afc-471df3f65774.png)
+
 
 
 # 4W&#39;s and 1&#39;H
