@@ -10,3 +10,8 @@ Project Repository
 ## ARCHITECTURE
 
 ![image](https://user-images.githubusercontent.com/80807460/114123498-0bb6fc00-9910-11eb-999e-0b45c3431e14.png)
+
+
+## USE CASE DIAGRAM
+
+![image](https://user-images.githubusercontent.com/80807460/114124503-3dc95d80-9912-11eb-970d-e7c85a507e72.png)
