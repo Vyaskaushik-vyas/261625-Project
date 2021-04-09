@@ -65,8 +65,7 @@ Project Repository
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+![image](https://user-images.githubusercontent.com/80807460/114117975-76166f00-9905-11eb-8f88-649895d4ed5e.png)
 
 
 ##  Low level Requirements:
