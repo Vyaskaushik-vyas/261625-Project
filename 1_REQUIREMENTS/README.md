@@ -3,6 +3,9 @@ Project Repository
 # Requirements
 ## Introduction
  To design a system which calculates the size of the Cable to be laid based on system parameters for a Substation
+ 
+ ![image](https://user-images.githubusercontent.com/80807460/114119373-24bbaf00-9908-11eb-85bd-d49fcbcefeca.png)
+
 
 ## Research
 •	The conductor cross-section shall be chosen such that the conductor withstands prospective short circuit current for a specified duration of time.
