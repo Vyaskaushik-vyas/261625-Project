@@ -69,8 +69,14 @@ float calculate_total_derating(float derating_teperature_value,float derating_de
  */
 
 float calculate_voltagedrop(float ampacity,float sys_voltage,float power_factor,float length,float resistance,float reactance);
+/**
+ * @brief 
+ * 
+ * @param derating_current 
+ * @param conductor_type 
+ * @return float 
+ */
 
-
-
+float conductor_size(float derating_current ,char conductor_type);
 
 #endif
