@@ -56,8 +56,19 @@ float calculate_derating_depth(float site_depth,float rating_factor);
  * @return float 
  */
 float calculate_total_derating(float derating_teperature_value,float derating_depth_value,float ampacity);
+/**
+ * @brief finds the voltage drop of the current system.
+ * 
+ * @param ampacity 
+ * @param sys_voltage 
+ * @param power_factor 
+ * @param length 
+ * @param resistance 
+ * @param reactance 
+ * @return float 
+ */
 
-float calculate_voltagedrop();
+float calculate_voltagedrop(float ampacity,float sys_voltage,float power_factor,float length,float resistance,float reactance);
 
 
 
