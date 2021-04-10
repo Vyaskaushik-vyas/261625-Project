@@ -40,11 +40,13 @@ float calculate_derating_temp(float site_temerature);
 /**
  * @brief finds the derating factor of depth
  * 
- * @param site_depth 
+ * @param site_depth
+ * @param rating_fator
+ * 
  * @return float
  */
 
-float calculate_derating_depth(float site_depth);
+float calculate_derating_depth(float site_depth,float rating_factor);
 /**
  * @brief finds the cummilative derating current
  * 
