@@ -15,3 +15,9 @@ Project Repository
 ## USE CASE DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/80807460/114124503-3dc95d80-9912-11eb-970d-e7c85a507e72.png)
+
+
+## COMMUNICATION INFRASTRUCTURE
+
+![image](https://user-images.githubusercontent.com/80807460/114501326-679ebf00-9c47-11eb-8f7f-ee729259cb5b.png)
+
