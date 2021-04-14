@@ -19,5 +19,5 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_                | 
-`6_Report          | Documents with Report about the project
+`6_Reprot `        | Documents with Report about the project
 `7_Others   `      | Documents with Data Sheets
