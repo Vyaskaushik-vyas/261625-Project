@@ -8,7 +8,7 @@ Project Repository
 
 [![Contribution Check - Git Inspector](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/gitinspector.yml)
 
-![image](https://user-images.githubusercontent.com/80807460/114653600-04279680-9d06-11eb-99e5-4d7a60d0fd63.png)
+
 
 
 ## Folder Structure
@@ -18,6 +18,6 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-`5_Test_plan`      | Documents with test plans and procedures
-`6_Test_plan`      | Documents with test plans and procedures
-`7_Others   `      | Documents with test plans and procedures
+`5_                | 
+`6_Report          | Documents with Report about the project
+`7_Others   `      | Documents with Data Sheets
