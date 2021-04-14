@@ -6,6 +6,8 @@ Project Repository
 
 ![image](https://user-images.githubusercontent.com/80807460/114123691-749e7400-9910-11eb-97d4-97f6352669a2.png)
 
+[![Contribution Check - Git Inspector](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/gitinspector.yml)
+
 ![image](https://user-images.githubusercontent.com/80807460/114653600-04279680-9d06-11eb-99e5-4d7a60d0fd63.png)
 
 
