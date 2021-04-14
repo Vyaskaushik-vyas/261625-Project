@@ -18,6 +18,6 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-`5_Report`         |                 
-`6_Videos`         | Documents with Report about the project
+`5_Report`         |  Documents with Report about the project               
+`6_Videos`         | Documents with Videos about the working of the project
 `7_Others   `      | Documents with Data Sheets
