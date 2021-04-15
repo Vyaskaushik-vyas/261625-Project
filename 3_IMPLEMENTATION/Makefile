@@ -1,5 +1,6 @@
 PROJ_NAME = Cable 
 BUILD_DIR = Build
+
 SRC = calculate_ampacity.c\
 src\calculate_breaker_current.c\
 src\calculate_derating_depth.c\
