@@ -10,6 +10,7 @@ Project Repository
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/cppcheck.yml)
 
+[![CI-Coverage](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/code-coverage.yml)
 
 
 
