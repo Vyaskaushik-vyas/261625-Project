@@ -6,7 +6,7 @@ PROJECT_NAME = Cable
 BUILD = build
 
 # All source code files
-SRC = calculate_ampacity.c\
+SRC =src/calculate_ampacity.c\
 src/calculate_breaker_current.c\
 src/calculate_derating_depth.c\
 src/calculate_derating_temp.c\
