@@ -6,6 +6,7 @@ Project Repository
 
 ![image](https://user-images.githubusercontent.com/80807460/114123691-749e7400-9910-11eb-97d4-97f6352669a2.png)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8713ad6a1538420687106f4c1d80f4ed)](https://app.codacy.com/gh/Vyaskaushik-vyas/261625-Project?utm_source=github.com&utm_medium=referral&utm_content=Vyaskaushik-vyas/261625-Project&utm_campaign=Badge_Grade_Settings)
 [![Contribution Check - Git Inspector](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/gitinspector.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/cppcheck.yml)
