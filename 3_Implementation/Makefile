@@ -6,13 +6,13 @@ PROJECT_NAME = Cable
 BUILD = build
 
 # All source code files
-SRC = calculate_ampacity.c \
-src/calculate_breaker_current.c \
-src/calculate_derating_depth.c \
-src/calculate_derating_temp.c \
-src/calculate_total_derating.c \
-src/calculate_voltage_drop.c \
-src/conductor_size.c
+SRC = calculate_ampacity.c\
+src/calculate_breaker_current.c\
+src/calculate_derating_depth.c\
+src/calculate_derating_temp.c\
+src/calculate_total_derating.c\
+src/calculate_voltage_drop.c\
+src/conductor_size.c\
 test/test_calendar.c\
 unity/unity.c\
 
