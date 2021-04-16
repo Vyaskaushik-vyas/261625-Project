@@ -12,6 +12,8 @@ Project Repository
 
 [![CI-Coverage](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/Vyaskaushik-vyas/261625-Project/actions/workflows/code-coverage.yml)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6c07ef558cf54693a7cf9e428eb99b5f)](https://www.codacy.com/gh/Vyaskaushik-vyas/261625-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vyaskaushik-vyas/261625-Project&amp;utm_campaign=Badge_Grade)
+
 
 
 ## Folder Structure
