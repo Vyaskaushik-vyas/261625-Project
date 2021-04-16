@@ -13,7 +13,7 @@ src/calculate_derating_temp.c\
 src/calculate_total_derating.c\
 src/calculate_voltagedrop.c\
 src/conductor_size.c\
-test/test_calendar.c\
+test/test.c\
 unity/unity.c\
 
 
